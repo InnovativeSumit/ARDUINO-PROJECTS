@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard-half", "id": "bb1", "top": -31.8, "left": -237.2, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": -28.2, "left": -211.8, "attrs": {} },
+    {
+      "type": "wokwi-buzzer",
+      "id": "bz1",
+      "top": -151.2,
+      "left": 97.8,
+      "attrs": { "volume": "0.1" }
+    }
+  ],
+  "connections": [
+    [ "bz1:2", "uno:1", "red", [ "v0", "h162.8" ] ],
+    [ "bz1:1", "uno:GND.3", "black", [ "v0", "h-451.2", "v355.2", "h547.2" ] ],
+    [ "uno:A5.2", "bb1:tp.8", "", [ "$bb" ] ],
+    [ "uno:A4.2", "bb1:tp.9", "", [ "$bb" ] ],
+    [ "uno:AREF", "bb1:tp.10", "", [ "$bb" ] ],
+    [ "uno:13", "bb1:tp.11", "", [ "$bb" ] ],
+    [ "uno:12", "bb1:tp.12", "", [ "$bb" ] ],
+    [ "uno:11", "bb1:tp.13", "", [ "$bb" ] ],
+    [ "uno:10", "bb1:tp.14", "", [ "$bb" ] ],
+    [ "uno:9", "bb1:tp.15", "", [ "$bb" ] ]
+  ],
+  "dependencies": {}
+}
