@@ -72,13 +72,6 @@ Want to contribute your own sensor-based project? We'd love to feature it!
 
 ---
 
-## 📜 License
-
-Licensed under the [MIT License](LICENSE).  
-Use it freely in your schools, hackathons, or personal projects.
-
----
-
 ## 🌟 Show Support
 
 If you find this repository useful or inspiring, please give it a ⭐  
