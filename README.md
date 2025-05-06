@@ -84,5 +84,4 @@ Use it freely in your schools, hackathons, or personal projects.
 If you find this repository useful or inspiring, please give it a ⭐  
 Your support helps us keep building and sharing educational content!
 
----
 
