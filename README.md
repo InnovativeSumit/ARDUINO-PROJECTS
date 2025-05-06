@@ -1,4 +1,4 @@
-# 🧠 Interactive Hackathon Science Exhibition – Award-Winning Projects [ARDUINO PROJECTS ]
+# 🧠 Interactive Hackathon Science Exhibition – Award-Winning Projects [ ARDUINO-PROJECTS ]
 
 Welcome to the official repository of our **award-winning science exhibition entries**! 🏆 These interactive creations were built during national hackathons and STEM expos, showcasing innovation through **sensor technology, web interfaces**, and **practical problem-solving**.
 
