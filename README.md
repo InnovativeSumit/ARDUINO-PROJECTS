@@ -4,7 +4,7 @@ Welcome to the official repository of our **award-winning science exhibition ent
 
 Whether you're an educator, developer, student, or tech enthusiast — this repo is your gateway to creative, sensor-powered projects designed for real-world impact.
 
----
+
 
 ## 🚀 What’s Inside
 
@@ -17,7 +17,7 @@ This repository features a series of **interactive hardware-software projects** 
 - Educational tools and classroom demos
 - Data visualization and environmental sensing
 
----
+
 
 ## 🧩 Core Features Across Projects
 
@@ -27,7 +27,7 @@ This repository features a series of **interactive hardware-software projects** 
 - 📡 Sensor integrations using Arduino/NodeMCU
 - ✅ Lightweight, dependency-free codebases (HTML, CSS, JavaScript)
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +50,7 @@ This repository features a series of **interactive hardware-software projects** 
 - Local data storage and CSV/JSON export
 - Optional API integrations (e.g., weather, air quality)
 
----
+
 
 ## 👩‍🏫 Ideal For
 
@@ -59,7 +59,7 @@ This repository features a series of **interactive hardware-software projects** 
 - Makers building real-world solutions
 - Beginners learning JavaScript + hardware integration
 
----
+
 
 ## 💬 Contribution
 
@@ -70,11 +70,15 @@ Want to contribute your own sensor-based project? We'd love to feature it!
 - Submit a pull request  
 - Or open an issue with your idea!
 
----
 
-## 🌟 Show Support
 
-If you find this repository useful or inspiring, please give it a ⭐  
-Your support helps us keep building and sharing educational content!
+## 🌟 Let's Connect
 
+
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about *coding, design, robotics, and AI*. Let's build something amazing together!  
+
+
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339) 
 
