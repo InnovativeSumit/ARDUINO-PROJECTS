@@ -70,6 +70,10 @@ Want to contribute your own sensor-based project? We'd love to feature it!
 - Submit a pull request  
 - Or open an issue with your idea!
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 ## 🌟 Let's Connect
